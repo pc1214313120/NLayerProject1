@@ -22,7 +22,7 @@ namespace _01_UI
     {
         public MainWindow()
         {
-            InitializeComponent();
+            MessageBox.Show("Hello World");
         }
     }
 }
